@@ -6,5 +6,8 @@ My personal space on the web where design meets logic. I developed this portfoli
 
 
 ### for create this app i use:
-**frontEnf:** <br/> 
+**front-end:** <br/> <br/> 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,vue,pinia)](https://skillicons.dev)
+<br/> <br/> <br/> 
+**back-end:** <br/> <br/> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,vue,pinia)](https://skillicons.dev)
