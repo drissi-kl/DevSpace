@@ -10,4 +10,4 @@ My personal space on the web where design meets logic. I developed this portfoli
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,vue,pinia)](https://skillicons.dev)
 <br/> <br/> <br/> 
 **back-end:** <br/> <br/> 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,vue,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
